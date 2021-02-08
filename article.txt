@@ -1,11 +1,11 @@
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE.
+ABSTRACT This paper presents research challenges on security and privacy issues in the field of green
+IoT-based agriculture. We start by describing a four-tier green IoT-based agriculture architecture and
+summarizing the existing surveys that deal with smart agriculture. Then, we provide a classification of
+threat models against green IoT-based agriculture into five categories, including, attacks against privacy,
+authentication, confidentiality, availability, and integrity properties. Moreover, we provide a taxonomy and
+a side-by-side comparison of the state-of-the-art methods toward secure and privacy-preserving technologies
+for IoT applications and how they will be adapted for green IoT-based agriculture. In addition, we analyze
+the privacy-oriented blockchain-based solutions as well as consensus algorithms for IoT applications and
+how they will be adapted for green IoT-based agriculture. Based on the current survey, we highlight open
+research challenges and discuss possible future research directions in the security and privacy of green
+IoT-based agriculture.
